@@ -1,4 +1,5 @@
 class MicropostsController < ApplicationController
+  
   def create
   end
 
